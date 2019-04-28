@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA *" tvg-logo="http://2.bp.blogspot.com/-EM_NBtR3lag/U7ypxTkdjjI/AAAAAAAADzQ/FDXWTlKwRoc/s1600/pantera-cor-de-rosa+COLORIR+DESENHOS.gif" group-title="CANAIS 24 HORAS",A PANTERA COR DE ROSA *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8307
+#EXTINF:-1 tvg-id="" tvg-name="APENAS UM SHOW *" tvg-logo="https://darlildo.files.wordpress.com/2014/08/regular-show-about-the-show.png" group-title="CANAIS 24 HORAS",APENAS UM SHOW *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8306
+#EXTINF:-1 tvg-id="" tvg-name="ARMAÇÃO ILIMITADA *" tvg-logo="" group-title="CANAIS 24 HORAS",ARMAÇÃO ILIMITADA *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8299
+#EXTINF:-1 tvg-id="EliteBackyardigans.br" tvg-name="BACKYARDIGANS *" tvg-logo="http://www.stickpng.com/assets/thumbs/5a5287c09462fb02c40c2d43.png" group-title="CANAIS 24 HORAS",BACKYARDIGANS *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8320
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN E ROBIN *" tvg-logo="" group-title="CANAIS 24 HORAS",BATMAN E ROBIN *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8298
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO PLANETA *" tvg-logo="" group-title="CANAIS 24 HORAS",CAPITÃO PLANETA *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8297
+#EXTINF:-1 tvg-id="EliteCaverna.br" tvg-name="CAVERNA DO DRAGÃO *" tvg-logo="http://4.bp.blogspot.com/-oAYrm14ZYVE/VRfy78wV8oI/AAAAAAAAJrw/0yK43qC8jSY/s1600/A%2BCaverna%2BDo%2BDragao%2B-%2BLogo.png" group-title="CANAIS 24 HORAS",CAVERNA DO DRAGÃO *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8319
+#EXTINF:-1 tvg-id="" tvg-name="CHARLIE BROWN E SNOOPY *" tvg-logo="https://seeklogo.com/images/S/Snoopy-logo-23AC0B424A-seeklogo.com.png" group-title="CANAIS 24 HORAS",CHARLIE BROWN E SNOOPY *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8305
+#EXTINF:-1 tvg-id="" tvg-name="CLIPES ROCK N ROLL *" tvg-logo="" group-title="CANAIS 24 HORAS",CLIPES ROCK N ROLL *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8277
+#EXTINF:-1 tvg-id="" tvg-name="CORRIDA MALUCA *" tvg-logo="" group-title="CANAIS 24 HORAS",CORRIDA MALUCA *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8296
+#EXTINF:-1 tvg-id="EliteDBS.br" tvg-name="DRAGON BALL *" tvg-logo="https://img00.deviantart.net/b696/i/2016/246/d/b/dragon_ball_super_logo_special_by_orochidaime-dagdeuy.png" group-title="CANAIS 24 HORAS",DRAGON BALL *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8318
+#EXTINF:-1 tvg-id="EliteFamiliaDino.br" tvg-name="FAMÍLIA DINOSSAURO *" tvg-logo="https://archive.org/download/FAMILIA_201804/FAMILIA.png" group-title="CANAIS 24 HORAS",FAMÍLIA DINOSSAURO *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8317
+#EXTINF:-1 tvg-id="" tvg-name="FLASHMAN *" tvg-logo="https://uploaddeimagens.com.br/images/001/395/756/full/comando-estelar-flashman-serie-completa-e-dublada-D_NQ_NP_307705-MLB25072250037_092016-F.png?1525052153" group-title="CANAIS 24 HORAS",FLASHMAN *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8316
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATÔMICA *" tvg-logo="" group-title="CANAIS 24 HORAS",FORMIGA ATÔMICA *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8283
+#EXTINF:-1 tvg-id="" tvg-name="GATO FELIX *" tvg-logo="" group-title="CANAIS 24 HORAS",GATO FELIX *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8282
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN *" tvg-logo="" group-title="CANAIS 24 HORAS",HE-MAN *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8281
+#EXTINF:-1 tvg-id="EliteHoraDeAventura.br" tvg-name="HORA DE AVENTURA *" tvg-logo="https://officialpsds.com/imageview/7p/3p/7p3p89_large.png?1521316540" group-title="CANAIS 24 HORAS",HORA DE AVENTURA *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8315
+#EXTINF:-1 tvg-id="EliteJaspion.br" tvg-name="JASPION *" tvg-logo="https://uploaddeimagens.com.br/images/001/369/740/full/09bcada97b0d733207e342b7fcf355ee.png?1523520647" group-title="CANAIS 24 HORAS",JASPION *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8314
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA *" tvg-logo="" group-title="CANAIS 24 HORAS",LIGA DA JUSTIÇA *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8295
+#EXTINF:-1 tvg-id="" tvg-name="MACGYVER *" tvg-logo="" group-title="CANAIS 24 HORAS",MACGYVER *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8285
+#EXTINF:-1 tvg-id="EliteMrBean.br" tvg-name="MR. BEAN *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mr._Bean_%28animated_TV_series%29_logo.svg/1280px-Mr._Bean_%28animated_TV_series%29_logo.svg.png" group-title="CANAIS 24 HORAS",MR. BEAN *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8313
+#EXTINF:-1 tvg-id="" tvg-name="NINJA JIRAIYA *" tvg-logo="" group-title="CANAIS 24 HORAS",NINJA JIRAIYA *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8294
+#EXTINF:-1 tvg-id="" tvg-name="O FANTÁSTICO MUNDO DE BOBBY *" tvg-logo="" group-title="CANAIS 24 HORAS",O FANTÁSTICO MUNDO DE BOBBY *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8293
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES *" tvg-logo="" group-title="CANAIS 24 HORAS",OS FLINTSTONES *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8292
+#EXTINF:-1 tvg-id="" tvg-name="OS NORMAIS *" tvg-logo="" group-title="CANAIS 24 HORAS",OS NORMAIS *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8276
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS *" tvg-logo="http://www.juniortoons.com/images/logo_simpsons.gif" group-title="CANAIS 24 HORAS",OS SIMPSONS *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8304
+#EXTINF:-1 tvg-id="EliteTrapaSerie.br" tvg-name="OS TRAPALHÕES OFICIAL *" tvg-logo="https://uploaddeimagens.com.br/images/001/418/712/full/t34yty-750x855.png?1526405609" group-title="CANAIS 24 HORAS",OS TRAPALHÕES OFICIAL *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8312
+#EXTINF:-1 tvg-id="" tvg-name="PATATI PATATA *" tvg-logo="" group-title="CANAIS 24 HORAS",PATATI PATATA *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8291
+#EXTINF:-1 tvg-id="ElitePeppa.br" tvg-name="PEPPA PIG *" tvg-logo="https://m.media-amazon.com/images/S/aplus-media/vc/353c421d-3b06-42f0-8c9e-f855f8ae7ab3.png" group-title="CANAIS 24 HORAS",PEPPA PIG *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8302
+#EXTINF:-1 tvg-id="ElitePicapau.br" tvg-name="PICA-PAU *" tvg-logo="https://uploaddeimagens.com.br/images/001/395/853/full/Logo_%281%29.png?1525057076" group-title="CANAIS 24 HORAS",PICA-PAU *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8311
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE *" tvg-logo="" group-title="CANAIS 24 HORAS",POPEYE *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8280
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO *" tvg-logo="https://4.bp.blogspot.com/-h9jKcKesYyw/V5qirUjfUTI/AAAAAAAALrE/19n6G22K-HkKJ6JFD7ZWBCdp3sclJJ3agCLcB/s1600/QF1nJLU.png" group-title="CANAIS 24 HORAS",SCOOBY DOO *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8301
+#EXTINF:-1 tvg-id="" tvg-name="SPECTREMAN *" tvg-logo="https://uploaddeimagens.com.br/images/001/417/552/full/spectremanlogoblk-445x99.png?1526342446" group-title="CANAIS 24 HORAS",SPECTREMAN *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8310
+#EXTINF:-1 tvg-id="" tvg-name="SPEED RACER *" tvg-logo="" group-title="CANAIS 24 HORAS",SPEED RACER *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8290
+#EXTINF:-1 tvg-id="" tvg-name="SUPER AMIGOS *" tvg-logo="" group-title="CANAIS 24 HORAS",SUPER AMIGOS *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8289
+#EXTINF:-1 tvg-id="" tvg-name="SUPER VICKY *" tvg-logo="" group-title="CANAIS 24 HORAS",SUPER VICKY *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8279
+#EXTINF:-1 tvg-id="EliteBigBang.br" tvg-name="THE BIG BANG THEORY *" tvg-logo="http://i0.kym-cdn.com/photos/images/original/001/018/269/b21.png" group-title="CANAIS 24 HORAS",THE BIG BANG THEORY *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8303
+#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS *" tvg-logo="" group-title="CANAIS 24 HORAS",THUNDERCATS *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8288
+#EXTINF:-1 tvg-id="EliteChris.br" tvg-name="TODO MUNDO ODEIA O CHRIS *" tvg-logo="http://www.todomundoodeiachris2011.xpg.com.br/06.png" group-title="CANAIS 24 HORAS",TODO MUNDO ODEIA O CHRIS *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8309
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY *" tvg-logo="" group-title="CANAIS 24 HORAS",TOM & JERRY *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8287
+#EXTINF:-1 tvg-id="" tvg-name="TURMA DA MÔNICA *" tvg-logo="" group-title="CANAIS 24 HORAS",TURMA DA MÔNICA *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8286
+#EXTINF:-1 tvg-id="" tvg-name="ULTRAMAN *" tvg-logo="http://buholding.hkit4u.com/wp-content/uploads/2016/11/ultraman.png" group-title="CANAIS 24 HORAS",ULTRAMAN *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8308
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO *" tvg-logo="" group-title="CANAIS 24 HORAS",UM MALUCO NO PEDAÇO *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/8300
+#EXTINF:-1 tvg-id="" tvg-name="panda institucional" tvg-logo="" group-title="CANAIS 24 HORAS",panda institucional
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/14506
+#EXTINF:-1 tvg-id="" tvg-name="alpha institucional" tvg-logo="" group-title="",alpha institucional
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/14674
+#EXTINF:-1 tvg-id="" tvg-name="Bob The Train" tvg-logo="" group-title="INFANTIL",Bob The Train
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/14690
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Infantis" tvg-logo="" group-title="CANAIS 24 HORAS",Filmes Infantis
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/14691
+#EXTINF:-1 tvg-id="" tvg-name="24H - ANIMATRIX" tvg-logo="https://fanart.tv/fanart/tv/80468/clearart/the-animatrix-4fa5aee87c25b.png" group-title="CANAIS 24 HORAS",24H - ANIMATRIX
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/12796
+#EXTINF:-1 tvg-id="" tvg-name="24H - A PANTERA COR DE ROSA" tvg-logo="https://seeklogo.com/images/P/pantera-cor-de-rosa-logo-A0CE423008-seeklogo.com.png" group-title="CANAIS 24 HORAS",24H - A PANTERA COR DE ROSA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/14676
+#EXTINF:-1 tvg-id="" tvg-name="24H - MACGYVER **" tvg-logo="https://creativeallies.s3.amazonaws.com/uploads/uploads/support_file/document/108/MacLogo_20WEB.gif" group-title="CANAIS 24 HORAS",24H - MACGYVER **
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/14352
+#EXTINF:-1 tvg-id="" tvg-name="24H - DRAGON BALL HEROES" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52815ff0-e7e4-4693-bd0d-5442fae05c46/dd0d3jv-77b500bf-c83e-41ed-bbf2-a34215a4b9be.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyODE1ZmYwLWU3ZTQtNDY5My1iZDBkLTU0NDJmYWUwNWM0NlwvZGQwZDNqdi03N2I1MDBiZi1jODNlLTQxZWQtYmJmMi1hMzQyMTVhNGI5YmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rWcuZcPeSLCj8NuSs80cDX0TWSBj1Yp3mR2XVd0oy8E" group-title="CANAIS 24 HORAS",24H - DRAGON BALL HEROES
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/12635
+#EXTINF:-1 tvg-id="" tvg-name="24H - KRYPTON" tvg-logo="https://www.syfy.com/krypton/descendants/static/img/logo-krypton.d92026e.png" group-title="CANAIS 24 HORAS",24H - KRYPTON
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/12636
+#EXTINF:-1 tvg-id="EliteMasha.br" tvg-name="24H - MASHA E O URSO" tvg-logo="https://uploaddeimagens.com.br/images/002/052/549/full/buraco-tijolo-masha-e-o-urso-500x500.png?1555812926" group-title="CANAIS 24 HORAS",24H - MASHA E O URSO
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/5047
+#EXTINF:-1 tvg-id="ElitePeppa.br" tvg-name="24H - PEPPA PIG" tvg-logo="http://s3.foxfilm.com/fhetoolkits/peppa-pig/franchise/logo/Peppa-Pig-logo.png" group-title="CANAIS 24 HORAS",24H - PEPPA PIG
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/5061
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="24H - SIMPSONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1024px-The_Simpsons_Logo.svg.png" group-title="CANAIS 24 HORAS",24H - SIMPSONS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/5183
+#EXTINF:-1 tvg-id="" tvg-name="24H - SOUTH PARK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/South_Park_Logo.png" group-title="CANAIS 24 HORAS",24H - SOUTH PARK
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/5116
+#EXTINF:-1 tvg-id="" tvg-name="24H - APENAS UM SHOW" tvg-logo="https://2.bp.blogspot.com/-5izpmmkczJ8/WMhyKKTegoI/AAAAAAAABDk/khkY8paKDVE5qlqlP9fPv21Kv9UkMpIQgCLcB/s1600/Regular_Show.png" group-title="CANAIS 24 HORAS",24H - APENAS UM SHOW
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7487
+#EXTINF:-1 tvg-id="EliteBobEsponja.br" tvg-name="24H - BOB SPONJA" tvg-logo="https://www.pngkit.com/png/full/375-3758998_spongebob-squarepants-image-bob-esponja-logo-png.png" group-title="CANAIS 24 HORAS",24H - BOB SPONJA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7472
+#EXTINF:-1 tvg-id="EliteCaverna.br" tvg-name="24H - CAVERNA DO DRAGÃO" tvg-logo="http://4.bp.blogspot.com/-oAYrm14ZYVE/VRfy78wV8oI/AAAAAAAAJrw/0yK43qC8jSY/s1600/A%2BCaverna%2BDo%2BDragao%2B-%2BLogo.png" group-title="CANAIS 24 HORAS",24H - CAVERNA DO DRAGÃO
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7414
+#EXTINF:-1 tvg-id="" tvg-name="24H - CHICAGO PD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUO-LF8b89wSm8OspCLtpjdna8WyaZYG3Y_qge4evxtB1aPUik" group-title="CANAIS 24 HORAS",24H - CHICAGO PD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7473
+#EXTINF:-1 tvg-id="" tvg-name="24H - CORAGEM , O CÃO COVARDE" tvg-logo="https://vignette.wikia.nocookie.net/creepypastabrasil/images/b/b9/Coragem_o_Cao_covarde-1-.gif/revision/latest?cb=20140525173453&path-prefix=pt-br" group-title="CANAIS 24 HORAS",24H - CORAGEM , O CÃO COVARDE
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7469
+#EXTINF:-1 tvg-id="" tvg-name="24H - DESENHOS DIVERSOS" tvg-logo="https://seeklogo.com/images/C/Coragem_o_Cao_Covarde-logo-6B9945D9D4-seeklogo.com.png" group-title="CANAIS 24 HORAS",24H - DESENHOS DIVERSOS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7432
+#EXTINF:-1 tvg-id="" tvg-name="24H - FILMES INFANTIS" tvg-logo="" group-title="CANAIS 24 HORAS",24H - FILMES INFANTIS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7422
+#EXTINF:-1 tvg-id="" tvg-name="24H - HUNTER x HUNTER" tvg-logo="https://qph.fs.quoracdn.net/main-qimg-cb803942126f22888344513403d495b3" group-title="CANAIS 24 HORAS",24H - HUNTER x HUNTER
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7427
+#EXTINF:-1 tvg-id="" tvg-name="24H - KND  A TURMA DO BAIRRO" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/4/43/Numbuh_1.png/revision/latest?cb=20160907163715&path-prefix=pt-br" group-title="CANAIS 24 HORAS",24H - KND  A TURMA DO BAIRRO
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7424
+#EXTINF:-1 tvg-id="EliteLarva.br" tvg-name="24H - LARVA" tvg-logo="https://vignette.wikia.nocookie.net/larva-animation/images/6/63/Larva_logo_400x400-300x300.png/revision/latest?cb=20181221111455" group-title="CANAIS 24 HORAS",24H - LARVA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7410
+#EXTINF:-1 tvg-id="" tvg-name="24H - OGGY E AS BARATAS TONTAS" tvg-logo="http://images5.fanpop.com/image/photos/30900000/Oggy-and-the-Cockroaches-fan-arts-oggy-and-the-cockroaches-30928804-845-946.png" group-title="CANAIS 24 HORAS",24H - OGGY E AS BARATAS TONTAS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7470
+#EXTINF:-1 tvg-id="" tvg-name="24H - OSCAR´S OASIS" tvg-logo="https://www.cool90s.com/images/Oscar's%20Oasis.png" group-title="CANAIS 24 HORAS",24H - OSCAR´S OASIS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7411
+#EXTINF:-1 tvg-id="ElitePatrulha.br" tvg-name="24H - PATRULHA CANINA" tvg-logo="https://3.bp.blogspot.com/-ezw346bj9vQ/WX_dxKjvEdI/AAAAAAAAD3I/jBYgOHSCDzABQhWUKsJGIXQUehd28yndwCLcBGAs/s1600/30c5b6d0771fc3059bf8e839b3a5998e78a54c3c.png" group-title="CANAIS 24 HORAS",24H - PATRULHA CANINA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/6987
+#EXTINF:-1 tvg-id="ElitePicapau.br" tvg-name="24H - PICA PAU" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/c/c9/Logo.png/revision/latest?cb=20160928221609&path-prefix=pt-br" group-title="CANAIS 24 HORAS",24H - PICA PAU
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7418
+#EXTINF:-1 tvg-id="EliteSitio.br" tvg-name="24H - SÍTIO DO PICA-PAU AMARELO DESENHO" tvg-logo="" group-title="CANAIS 24 HORAS",24H - SÍTIO DO PICA-PAU AMARELO DESENHO
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7423
+#EXTINF:-1 tvg-id="" tvg-name="24H - TOM & JERRY" tvg-logo="https://i.dlpng.com/static/png/80701_thumb.png" group-title="CANAIS 24 HORAS",24H - TOM & JERRY
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7426
+#EXTINF:-1 tvg-id="" tvg-name="24H - YIN YANG YO!" tvg-logo="https://vignette.wikia.nocookie.net/yin-yang-yo-wiki-ptbr/images/c/c3/YinYangYo_poiler.png/revision/latest?cb=20151017201931&path-prefix=pt-br" group-title="CANAIS 24 HORAS",24H - YIN YANG YO!
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7413
+#EXTINF:-1 tvg-id="" tvg-name="24H - YONG SHELDON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Young_Sheldon_logo.png/1200px-Young_Sheldon_logo.png" group-title="CANAIS 24 HORAS",24H - YONG SHELDON
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7471
+#EXTINF:-1 tvg-id="" tvg-name="24H - BORUTO" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d722a95-67c0-4327-8dec-74bac90d68b6/d9drd9l-cc8388dd-130c-4ab3-a8bb-6cfda1ffc909.png/v1/fill/w_1024,h_482,strp/boruto_logo_by_animedark2_d9drd9l-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDgyIiwicGF0aCI6IlwvZlwvOGQ3MjJhOTUtNjdjMC00MzI3LThkZWMtNzRiYWM5MGQ2OGI2XC9kOWRyZDlsLWNjODM4OGRkLTEzMGMtNGFiMy1hOGJiLTZjZmRhMWZmYzkwOS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jJeUui0XjGuJ7RKev5DvK2QsiFCc3HoGLcbXD3g106g" group-title="CANAIS 24 HORAS",24H - BORUTO
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/5642
+#EXTINF:-1 tvg-id="EliteChaves.br" tvg-name="24H - CHAVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Chaves_Logo.gif" group-title="CANAIS 24 HORAS",24H - CHAVES
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/5197
+#EXTINF:-1 tvg-id="EliteTwoAnd.br" tvg-name="24H - TWO AND A HALF MEN" tvg-logo="https://uploaddeimagens.com.br/images/002/052/542/full/200px-Two-and-a-half-men.svg.png?1555812600" group-title="CANAIS 24 HORAS",24H - TWO AND A HALF MEN
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/5225
+#EXTINF:-1 tvg-id="" tvg-name="24H - LARGADOS E PELADOS" tvg-logo="https://www.largadosepelados.com/wp-content/uploads/2016/05/Cabe%C3%A7alho2.png" group-title="CANAIS 24 HORAS",24H - LARGADOS E PELADOS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7930
+#EXTINF:-1 tvg-id="EliteBigBang.br" tvg-name="24H - THE BIG BANG THEORY" tvg-logo="https://img.icons8.com/color/160/the-big-bang-theory.png" group-title="CANAIS 24 HORAS",24H - THE BIG BANG THEORY
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/7928
+#EXTINF:-1 tvg-id="EliteDBS.br" tvg-name="24H - DRAGON BALL SUPER *" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/45450de9-6be3-4c9e-8289-5b2ccb0124af/dcc5pfw-59fc1913-84ac-4ebb-96ee-5592288b9c35.png/v1/fill/w_1365,h_585,strp/dragon_ball_super_logo_by_vulrro_dcc5pfw-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njg2IiwicGF0aCI6IlwvZlwvNDU0NTBkZTktNmJlMy00YzllLTgyODktNWIyY2NiMDEyNGFmXC9kY2M1cGZ3LTU5ZmMxOTEzLTg0YWMtNGViYi05NmVlLTU1OTIyODhiOWMzNS5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.O61uJjOaxlo72bp_9lgiIwtqUCI5gd11hiZcIypvGwk" group-title="CANAIS 24 HORAS",24H - DRAGON BALL SUPER *
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/14337
